@@ -1192,5 +1192,6 @@ if __name__ == "__main__":
     app = App()
 
     #Test data for development without psutil
+    #Test data for development without psutil 2
 
     app.mainloop()
