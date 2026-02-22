@@ -1190,4 +1190,7 @@ class App(tk.Tk):
 # ══════════════════════════════════════════════
 if __name__ == "__main__":
     app = App()
+
+    #Test data for development without psutil
+
     app.mainloop()
